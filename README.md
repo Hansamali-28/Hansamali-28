@@ -1,4 +1,4 @@
-# 👩‍💻 Uthpala Hansamali
+# 👩‍💻 Uthpala Hansamali  
 
 **Health ICT Undergraduate | Business Management Student | Tech Enthusiast**
 
@@ -16,85 +16,82 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me  
 
-* 🎓 Undergraduate in **Health ICT** at Gampaha Wickramarachchi University of Indigenous Medicine
-* 📚 Studying **Business Management** to strengthen strategic and management skills
-* 💡 Interested in **Web Development**, **Mobile App Development**, and **Health Technology**
-* 📊 Exploring **Data Analytics** and its applications in healthcare
-* 🌱 Continuously learning and improving technical skills
-* 🤝 Open for **collaborations**, **internships**, and innovative projects
+- 🎓 Health ICT Undergraduate at Gampaha Wickramarachchi University of Indigenous Medicine  
+- 📚 Studying Business Management alongside ICT  
+- 💡 Interested in Web Development, Mobile App Development & Health Tech  
+- 📊 Exploring Data Analytics for healthcare solutions  
+- 🌱 Always learning new technologies  
+- 🤝 Open to collaborations & internships  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,kotlin,java" />
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,kotlin" />
 </p>
 
-### 🛠 Tools & Platforms
-
-<p align="left">
+### 🛠 Tools  
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,mysql" />
 </p>
 
-### 📚 Currently Learning
-
-<p align="left">
+### 📚 Learning  
+<p>
   <img src="https://skillicons.dev/icons?i=python,mongodb" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hansamali-28&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansamali-28&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hansamali-28&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Hansamali-28&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansamali-28&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansamali-28&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects  
 
-* 📇 **UPortfolio** – Personal portfolio showcase
-* 📋 **Todo App** – Task management web application
-* 🌐 **WebApplication** – Dynamic web project
-* 📱 **MoodTracker** – Android app for mood tracking
-* 🐕 **DogBreedsApp** – Android app for exploring dog breeds
-
----
-
-## 🎯 Goals
-
-* Gain experience in **Health Tech** and **Software Development**
-* Contribute to **Open Source Projects**
-* Build impactful digital solutions
-* Improve expertise in **Data Analytics** and **Mobile Development**
+- 📇 UPortfolio – Personal portfolio website  
+- 📋 Todo App – Task management web app  
+- 🌐 WebApplication – JavaScript project  
+- 📱 MoodTracker – Android app for mood tracking  
+- 🐕 DogBreedsApp – Kotlin Android app  
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 Goals  
 
-<p align="left">
+- Build real-world projects in Health Tech  
+- Improve Mobile & Web Development skills  
+- Contribute to Open Source  
+- Gain internship experience  
+
+---
+
+## 🤝 Connect With Me  
+
+<p>
   <a href="https://github.com/Hansamali-28">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/uthpala-hansamali-170a64295/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:uthpalahansamali2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ *Passionate about combining technology and healthcare to create innovative solutions.*
+⭐ *Passionate about combining healthcare and technology to create impactful solutions.*
