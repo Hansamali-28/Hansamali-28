@@ -54,7 +54,7 @@
 - 🌐 WebApplication – JavaScript project  
 - 📱 MoodTracker – Android app for mood tracking  
 - 🐕 DogBreedsApp – Kotlin Android app  
-
+📇  Personal portfolio – Personal portfolio website
 ---
 
 ## 🎯 Goals  
